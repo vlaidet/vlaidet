@@ -12,6 +12,9 @@
 <img width=<span class="hljs-string">"48%" src="</span>https:<span class="hljs-regexp">//github</span>-readme-streak-stats.herokuapp.com/?user=<span class="hljs-comment">vlaidet&theme=highcontrast&hide_border=true" alt="vlaidet" /></span>  
 <span class="hljs-regexp">/p></span>  
 
+<span class="hljs-comment"><!--START_SECTION:activity--></span>  
+<span class="hljs-comment"><!--END_SECTION:activity--></span>
+
 
 <!--
 **vlaidet/vlaidet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
