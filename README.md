@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentin</h1>
-<h3 align="center">I am 24 years old. Passionate about computer science, I started programming as an autodidact in 2014. I specialize in React.JS and Laravel</h3>
+<h3 align="center">I am 25 years old. Passionate about computer science, I started programming as an autodidact in 2014. I specialize in React.JS and Laravel</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vlaidet" alt="vlaidet" /></a> </p>
 
