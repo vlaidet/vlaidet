@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Valentin</h1>
-<h3 align="center">I am 25 years old. Passionate about computer science, I started programming as an autodidact in 2014. I specialize in React.JS and Laravel</h3>
+<h3 align="center">I am 26 years old. Passionate about computer science, I started programming as an autodidact in 2014. I specialize in Next.JS and Laravel</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vlaidet" alt="vlaidet" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, Symfony, Kotlin and Flutter**
+- 👨‍💻 [IN REDESIGN AND NOT UP TO DATE] All of my projects are available at [www.valentin-laidet.fr](www.valentin-laidet.fr)
 
-- 👨‍💻 All of my projects are available at [www.valentin-laidet.fr](www.valentin-laidet.fr)
-
-- 💬 Ask me about **React and Laravel**
+- 💬 Ask me about **Next and Laravel**
 
 - 📫 How to reach me **dev-ngu@protonmail.com**
 
